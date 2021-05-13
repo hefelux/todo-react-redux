@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "Aceitunas",
+      "price": 1500
+    },
+    {
+      "name": "Atun",
+      "price": 200,
+      "id": 7
+    },
+    {
+      "name": "Pan",
+      "price": 200,
+      "id": 8
+    },
+    {
+      "name": "Jamon",
+      "price": 200,
+      "id": 9
+    },
+    {
+      "name": "Tallarines",
+      "price": 200,
+      "id": 10
+    },
+    {
+      "name": "Pan",
+      "price": 200,
+      "id": 11
+    }
+  ]
+}
